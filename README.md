@@ -6,3 +6,5 @@ Are newer large language models better engaged with the world? With the advent o
 
 We replicated the vignette-based and task-based experiments described in (Binz & Schulz, 2023) on GPT-3. For vignette-based experiments, we also extended them to assess the performance of GPT-3.5 and GPT-4, and came up with our own adversarial vignettes. For both sets of experiments, prompt engineering is implemented.
 
+Please refer to <b>Final Report.pdf</b> in the Final Report folder for the full paper.
+
